@@ -1,0 +1,41 @@
+{
+  "name": "node-pg-redis-test",
+  "description": "Speed Tester",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simonswain/node-pg-redis-test",
+  "author": {
+    "name": "Simon Swain",
+    "email": "simon@simonswain.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonswain/node-pg-redis-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simonswain/node-pg-redis-test/issues"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "random-to": "0.0.2",
+    "async": "~0.2.9",
+    "underscore": "~1.4.4",
+    "redis": "~0.8.4",
+    "any-db": "~0.6.0",
+    "hiredis": "~0.1.15",
+    "pg": "~2.0.0"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.7.4",
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-env": "~0.1.0"
+  },
+  "keywords": []
+}
