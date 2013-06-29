@@ -1,18 +1,18 @@
 {
-  "name": "node-pg-redis-test",
+  "name": "node-pg-redis-speedtest",
   "description": "Speed Tester",
   "version": "0.0.1",
-  "homepage": "https://github.com/simonswain/node-pg-redis-test",
+  "homepage": "https://github.com/simonswain/node-pg-redis-speedtest",
   "author": {
     "name": "Simon Swain",
     "email": "simon@simonswain.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/simonswain/node-pg-redis-test.git"
+    "url": "git://github.com/simonswain/node-pg-redis-speedtest.git"
   },
   "bugs": {
-    "url": "https://github.com/simonswain/node-pg-redis-test/issues"
+    "url": "https://github.com/simonswain/node-pg-redis-speedtest/issues"
   },
   "main": "index.js",
   "engines": {
